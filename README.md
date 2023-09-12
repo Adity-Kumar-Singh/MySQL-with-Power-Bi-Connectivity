@@ -1,2 +1,2 @@
 # MySQL-with-Power-Bi-Connectivity
-I have a project of Power Bi Dashboard with MySQL database connectivity
+I have uploaded the project of Power-BI Dashboard with MySQL database connectivity
